@@ -1,4 +1,5 @@
 # 1. The numbers after a function are the executed values of the functions themselves. For example, in bubble.html, the "fill(400, 200, 300, 400)" code is made to color the bubbles in the file. The numerical values can be increased or decreased to change the effect of the function
-# 2. 
+# 2. Fill and stroke are both features in p5. Stroke is the outline of the square, and the fill is the color of the square.
 # 3. image of errors added to hw1 repository
-# 4. cmd + shift + j
+# 4. ctrl + shift + j
+# 5. When I used to curate art shows, I had to analyze and organize prices for several things. For the art pieces, I needed to calculate how much of the proceeds would go to the artist, gallery, and charity for the show. A lot of these numbers would be put through a spreadsheet where I kept track of all of the artwork. Since my art shows always involved a charity, I would have to do math in order to separate the proceeds and profit for the artists and gallery. While I didn't push as many calculations at once like a CPU, I have solved problems linearly this way.
